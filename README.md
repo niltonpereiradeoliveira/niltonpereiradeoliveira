@@ -24,12 +24,16 @@ Estou em busca de estágio, com foco em suporte remoto.
 
 <a href="https://www.github.com/niltonpereiradeoliveira/" target="_blank">
 <img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
+
 <a href="https://www.linkedin.com/in/nilton-oliveira-4a64b873/" target="_blank">
 <img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+
 <a href="https://www.instagram.com/nilpeoli/" target="_blank">
-<img align="center" alt="nilton-oliveira" height="30" width="40" src="Instagram.jpg" style="max-width:100%;">
+<img align="center" alt="nilton-oliveira" height="30" width="40" src="C:\Users\NILTON\Documents\WORKING\MyProjects\niltonpereiradeoliveira\Instagram.jpg" style="max-width:100%;">
+
 <a href="https://twitter.com/NILPEOLI" target="_blank">
 <img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
+
 </a>
 
 ## My Skills

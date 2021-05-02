@@ -29,7 +29,7 @@ Estou em busca de estágio, com foco em suporte remoto.
 <img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 
 <a href="https://www.instagram.com/nilpeoli/" target="_blank">
-<img align="center" alt="nilton-oliveira" height="30" width="40" src="C:\Users\NILTON\Documents\WORKING\MyProjects\niltonpereiradeoliveira\Instagram.jpg" style="max-width:100%;">
+<img align="center" alt="nilton-oliveira" height="30" width="40" src="Instagram.jpg" style="max-width:100%;">
 
 <a href="https://twitter.com/NILPEOLI" target="_blank">
 <img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
@@ -38,8 +38,7 @@ Estou em busca de estágio, com foco em suporte remoto.
 
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
-" alt="linux" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"></img>
 <img src="vba.png" alt="vba" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>

@@ -8,23 +8,46 @@ Atualmente, por conta da pandemia, e por pertencer ao grupo de risco, estou afas
 Neste período, estou conciliando os estudos da  universidade, com pesquisas sobre a linguagem Python e Java e dedicando outra parte, a convivência com a família.
 
 Conhecimentos:
-- Inglês (básico)
 - Sistemas Operacionais Windows e Linux
 - Pacote Office
 - VBA
-
-Estudando atualmente:
 - Lógica de Programação Algoritmica
 - VisuAlg
+
+Estudando atualmente:
+- Java
 - Python (Pesquisas)
-- Java (Pesquisas)
 
 Estou em busca de estágio, com foco em suporte remoto.
 
 É possível me encontrar aqui:
 
-![Meu GitHub](https://user-images.githubusercontent.com/64538523/112559988-ec1cc100-8db0-11eb-95a6-3229974f7985.png)
+<a href="https://www.github.com/niltonpereiradeoliveira/" target="_blank">
+<img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/nilton-oliveira-4a64b873/" target="_blank">
+<img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<a href="https://www.instagram.com/nilpeoli/" target="_blank">
+<img align="center" alt="nilton-oliveira" height="30" width="40" src="Instagram.jpg" style="max-width:100%;">
+<a href="https://twitter.com/NILPEOLI" target="_blank">
+<img align="center" alt="nilton-oliveira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
+</a>
 
-![Meu LinkedIn](https://user-images.githubusercontent.com/64538523/112558167-defdd300-8dac-11eb-8c61-8c141db52709.png)
-
-![Meu Instagram](https://user-images.githubusercontent.com/64538523/112557500-5fbbcf80-8dab-11eb-887a-2301b27826cd.png)
+## My Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+" alt="linux" width="40" height="40" style="max-width:100%;"></img>
+<img src="vba.png" alt="vba" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ie10/ie10-original.svg" alt="ie" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40" style="max-width:100%;"></img>
+<img src="office.png" alt="office" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+" alt="js" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg
+" alt="java" width="40" height="40" style="max-width:100%;"></img>

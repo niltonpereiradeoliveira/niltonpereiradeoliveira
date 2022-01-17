@@ -3,9 +3,9 @@
 
 O meu nome é ***Nilton P. de Oliveira,*** sou estudante de __*Análise e Desenvolvimento de Sistemas*__ e moro na cidade de _Itaquaquecetuba, SP, Brasil._
 
-Atualmente, por conta da pandemia, e por pertencer ao grupo de risco, estou afastado, temporariamente de minha função de "piloto de informática", cargo de Assistente Administrativo, em uma das lojas Hiper do Grupo Carrefour.
+Atualmente, minha função de Assistente Administrativo, em uma das lojas Hiper do Grupo Carrefour.
 
-Neste período, estou conciliando os estudos da  universidade, com pesquisas sobre a linguagem Python e Java e dedicando outra parte, a convivência com a família.
+Realizando pesquisas sobre a linguagem Python e Java.
 
 Conhecimentos:
 - Sistemas Operacionais Windows e Linux

@@ -1,11 +1,11 @@
 # Olá. Bem vindo(a).
 ---
 
-O meu nome é ***Nilton P. de Oliveira,*** sou estudante de __*Análise e Desenvolvimento de Sistemas*__ e moro na cidade de _Itaquaquecetuba, SP, Brasil._
+O meu nome é ***Nilton P. de Oliveira,*** conclui o curso de __*Análise e Desenvolvimento de Sistemas*__ e moro na cidade de _Itaquaquecetuba, SP, Brasil._
 
 Atualmente, minha função de Assistente Administrativo, em uma das lojas Hiper do Grupo Carrefour.
 
-Realizando pesquisas sobre a linguagem Python e Java.
+Realizando pesquisas sobre a linguagem Python para me especializar.
 
 Conhecimentos:
 - Sistemas Operacionais Windows e Linux
@@ -13,12 +13,8 @@ Conhecimentos:
 - VBA
 - Lógica de Programação Algoritmica
 - VisuAlg
-
-Estudando atualmente:
 - Java
-- Python (Pesquisas)
-
-Estou em busca de estágio, com foco em suporte remoto.
+- Python
 
 É possível me encontrar aqui:
 
